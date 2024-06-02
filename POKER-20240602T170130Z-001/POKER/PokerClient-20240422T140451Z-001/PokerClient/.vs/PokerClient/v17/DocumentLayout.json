@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|d:\\poker\\pokerclient-20240422t140451z-001\\pokerclient\\pokerclient\\gametable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|solutionrelative:pokerclient\\gametable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\pokerclient\\gametable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|solutionrelative:pokerclient\\gametable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\pokerclient\\clientsk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|solutionrelative:pokerclient\\clientsk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\pokerclient\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|solutionrelative:pokerclient\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\pokerclient\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|solutionrelative:pokerclient\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\pokerclient\\how2play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|solutionrelative:pokerclient\\how2play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\pokerclient\\waiting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|solutionrelative:pokerclient\\waiting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\pokerclient\\waiting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|solutionrelative:pokerclient\\waiting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\pokerclient\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|solutionrelative:pokerclient\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\pokerclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|solutionrelative:pokerclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\pokerclient\\gametable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|solutionrelative:pokerclient\\gametable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\pokerclient\\waiting.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD56601C-5137-451E-86D8-ED4588F29C88}|PokerClient\\PokerClient.csproj|solutionrelative:pokerclient\\waiting.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 240,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameTable.cs [Design]",
+              "DocumentMoniker": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\GameTable.cs",
+              "RelativeDocumentMoniker": "PokerClient\\GameTable.cs",
+              "ToolTip": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\GameTable.cs [Design]",
+              "RelativeToolTip": "PokerClient\\GameTable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:26:20.803Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Clientsk.cs",
+              "DocumentMoniker": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\Clientsk.cs",
+              "RelativeDocumentMoniker": "PokerClient\\Clientsk.cs",
+              "ToolTip": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\Clientsk.cs",
+              "RelativeToolTip": "PokerClient\\Clientsk.cs",
+              "ViewState": "AQIAAKcCAAAAAAAAAAAkwEsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T02:09:25.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameTable.cs",
+              "DocumentMoniker": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\GameTable.cs",
+              "RelativeDocumentMoniker": "PokerClient\\GameTable.cs",
+              "ToolTip": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\GameTable.cs",
+              "RelativeToolTip": "PokerClient\\GameTable.cs",
+              "ViewState": "AQIAAJUHAAAAAAAAAAAiwFkCAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:09:10.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Waiting.cs",
+              "DocumentMoniker": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\Waiting.cs",
+              "RelativeDocumentMoniker": "PokerClient\\Waiting.cs",
+              "ToolTip": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\Waiting.cs",
+              "RelativeToolTip": "PokerClient\\Waiting.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T02:37:46.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Waiting.cs [Design]",
+              "DocumentMoniker": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\Waiting.cs",
+              "RelativeDocumentMoniker": "PokerClient\\Waiting.cs",
+              "ToolTip": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\Waiting.cs [Design]",
+              "RelativeToolTip": "PokerClient\\Waiting.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T02:37:44.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\Menu.cs",
+              "RelativeDocumentMoniker": "PokerClient\\Menu.cs",
+              "ToolTip": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\Menu.cs [Design]",
+              "RelativeToolTip": "PokerClient\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T06:36:45.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\Menu.cs",
+              "RelativeDocumentMoniker": "PokerClient\\Menu.cs",
+              "ToolTip": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\Menu.cs",
+              "RelativeToolTip": "PokerClient\\Menu.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwD8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T03:09:29.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "How2play.cs [Design]",
+              "DocumentMoniker": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\How2play.cs",
+              "RelativeDocumentMoniker": "PokerClient\\How2play.cs",
+              "ToolTip": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\How2play.cs [Design]",
+              "RelativeToolTip": "PokerClient\\How2play.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T02:58:28.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\Player.cs",
+              "RelativeDocumentMoniker": "PokerClient\\Player.cs",
+              "ToolTip": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\Player.cs",
+              "RelativeToolTip": "PokerClient\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T01:36:28.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\Program.cs",
+              "RelativeDocumentMoniker": "PokerClient\\Program.cs",
+              "ToolTip": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\Program.cs",
+              "RelativeToolTip": "PokerClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T01:36:23.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameTable.Designer.cs",
+              "DocumentMoniker": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\GameTable.Designer.cs",
+              "RelativeDocumentMoniker": "PokerClient\\GameTable.Designer.cs",
+              "ToolTip": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\GameTable.Designer.cs",
+              "RelativeToolTip": "PokerClient\\GameTable.Designer.cs",
+              "ViewState": "AQIAABcBAAAAAAAAAAAMwE0BAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:19:06.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Waiting.Designer.cs",
+              "DocumentMoniker": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\Waiting.Designer.cs",
+              "RelativeDocumentMoniker": "PokerClient\\Waiting.Designer.cs",
+              "ToolTip": "D:\\POKER\\PokerClient-20240422T140451Z-001\\PokerClient\\PokerClient\\Waiting.Designer.cs",
+              "RelativeToolTip": "PokerClient\\Waiting.Designer.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAhwNQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T02:48:28.141Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

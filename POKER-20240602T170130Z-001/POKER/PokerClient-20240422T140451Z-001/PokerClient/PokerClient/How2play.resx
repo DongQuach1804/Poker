@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Trước tiên cần tìm hiểu một số thuật ngữ poker sau:
+- 2 lá bài tẩy : bài của ai người đó mới xem được 
+- 5 lá bài chung : bài chia lật luôn trên bàn 
+- Cách kết hợp bài tẩy và  5 lá bài Poker 
+- Cách cược tố trong 1 ván bài Poker 
+- Dealer : người chia bài 
+- Small Blind: người cược thấp đầu tiên 
+- Big blind : người cược cao đầu tiên 
+- Pot : nơi chưa Chip poker cược trong 1 ván 
+- Bỏ bài (Ford): Không theo vòng và úp bài xuống kết thúc màn chơi đó. 
+- Cược (Bet): Có thể cược số tiền đầu tiên nếu như đi đầu tiên. Khi đó những người chơi khác muốn theo trò chơi phải cược bằng số tiền người đầu tiên đặt.
+- Tố (Raise): Sau khi lượt cược của người chơi trước ngoài việc bỏ bài có thể tăng thêm tiền bằng cách Tố thêm tiền (Tố = Tiền cược trước đó + Số tiền muốn thêm). Đây là một hành động cho thấy người chơi đang có bài mạnh.
+- Tố tất (All-in): Khi người chơi cược hay tố toàn bộ số tiền người chơi đang có thì gọi là tố tất hay tất tay. Khi tố tất và ván bài vẫn tiếp tục thì việc còn lại của người chơi chỉ là ngồi xem. Ở cuối ván bài Poker sẽ ngửa bài để phân định thắng thua. Trường hợp này người chơi sẽ nhận được tổng số tiền tính từ thời điểm tố tất tay nếu giành chiến thắng. 
+- Theo (Call): Bỏ ra một số tiền bằng người chơi trước đã cược/tố để tiếp tục chơi ván bài đó
+- Kiểm bài (Check): Nếu trước đó chưa có ai cược, thì người chơi có thể kiểm bài để không phải bỏ thêm chip nào ra mà vẫn có thể theo bài. Điều này có nghĩa là người chơi sẽ không cược thêm gì cả, và sẽ đến người ngồi sau hành động, họ có cược hay kiểm bài thì còn tùy vào ý định chơi của họ.
+Khởi đầu mỗi ván, mỗi người chơi sẽ được chia 2 lá bài gọi là bài tẩy. Sau đó sẽ có 5 lá bài chung sẽ được chia và lật trên bàn chơi poker,  5 lá bài này và được chia thành 3 đợt. Đợt 1: 3 lá, đợt 2: 1 lá, đợt cuối 1 lá. Cộng với đợt chia 2 lá Bài Tẩy, tổng cộng có 4 lượt chia bài, qua đó người chơi sẽ tiến hành cược, tố,… các vòng này gọi chung là Vòng Cược.
+Vòng đầu (Còn gọi là Preflop): chia 2 lá bài tẩy
+- Bộ 3 người cạnh nhau trên bàn chơi poker: Dealer-small blind- big blind (xếp theo chiều kim đồng hồ) sẽ luôn di chuyển sau mỗi ván poker theo chiều kim đồng hồ nhé. 
+- Trước mỗi ván Poker, 2 người ngồi bên trái Dealer sẽ phải cược, đầu tiên là small blind cược lượng chip poker bất kỳ, sau đó big blind phải cược gấp đôi số chip poker của small blind . Đây là luật chung và người chơi nào cũng phải chấp hành. Dealer sẽ được thay đổi liên tục sau mỗi ván theo chiều kim đồng hồ. 
+- Mỗi người lần lượt được chia 2 lá bài, ngay sau khi 2 người chơi đặt cược đầu tiên thì mỗi người chơi sẽ được chia 2 lá bài tẩy để bắt đầu cho vòng cược đầu tiên.
+- Ở vòng cược có thể thực hiện các hành động bỏ bài (Ford), cược (Bet), tố (Raise), tố tất (All in), theo (Call), kiểm bài (Check).
+- Cơ bản vòng chơi sẽ diễn ra tuần tự theo chiều kim đồng hồ. Khi xong phiên người chơi này sẽ đến phiên người chơi kế bên trái người chơi đó.
+- Trong vòng cược đầu tiên, thì người chơi ngồi bên trái của người cược đầu tiên sẽ luôn là người hành động trước tiên. Từ vòng thứ 2 trở đi, người phải hành động trước tiên lại luôn luôn là người ngồi bên trái của Dealer. Cuối mỗi vòng cược, sau khi mọi người đã hành động xong, tất cả tiền cược của người chơi sẽ được gom lại và đặt ở giữa bàn. Chúng ta gọi đó là pot. Bất cứ ai thắng sẽ được lấy pot.
+Vòng 2 (The flop): Vòng chia 3 lá bài chung đầu tiên
+- Sau khi vòng cược đầu tiên được hoàn thành bởi các người chơi, sẽ đến vòng hai chia 3 lá Bài Chung đầu tiên, và dĩ nhiên ai cũng có thể nhìn thấy chúng. 
+- 3 lá này không thuộc về bất cứ người chơi nào, bất cứ ai cũng có thể dùng chúng để tạo ra 5 lá bài poker của họ. Đây là lý do tại sao chúng được gọi là Bài Chung.
+- Và điều này cũng đồng nghĩa bắt đầu vòng cược thứ 2, trong suốt quá trình diễn ra vòng cược thứ 2, người chơi có thể kiểm bài, theo, cược, tố, tố tất hoặc bỏ bài, tùy thuộc theo diễn biến của người chơi trên bàn. Sau khi kết thúc vòng cược thứ 2 này, tiền cược vẫn được gom lại như bình thường và đặt vào pot. Sau đó, mọi người sẽ tiếp tục đến vòng ba.
+Vòng 3 (The turn): Vòng chia lá bài chung thứ 4
+- Lá bài chung thứ 4 sẽ được chia tại vòng này, lá thứ 4 cũng sẽ được mở cho mọi người nhìn thấy và đặt kế tiếp 3 lá đầu tiên. Nó cũng được dùng để kết hợp với bài trên tay của người chơi.
+- Và tất nhiên đây sẽ là vòng cược thứ 3 dành cho người chơi, họ tính toán, kết hợp bài trên tay của mình với bài trên bàn để có quyết định đúng đắn nhất cho hành động của mình, vì đây đã là vòng cược gần cuối. Sau khi kết thúc vòng cược thứ 4 này, tiền cược cũng được gom lại như bình thường và đặt vào pot. Rồi mọi người cùng đến với vòng bốn.
+Vòng 4 (The river): Vòng chia lá bài chung thứ 5
+- Lá bài chung thứ 5 sẽ được chia tại vòng này, và đây cũng là lá cuối cùng trong 1 ván bài. Lá thứ 5 cũng sẽ được mở cho mọi người nhìn thấy và đặt kế tiếp lá thứ 4. Và dĩ nhiên nó cũng được dùng để kết hợp với bài trên tay người chơi. 
+- Đây là vòng cược thứ 4 và cũng là vòng cược cuối cùng dành cho người chơi. Sau khi vòng cược này kết thúc, người chơi sẽ kết hợp 2 lá bài trên tay của họ với 5 lá Bài Chung để tạo ra bài mạnh nhất và trình bài của họ để phân biệt thắng thua, điều này sẽ được giải thích chi tiết hơn ở mục kế tiếp.
+Lật bài (The showdown)
+Tại vòng lật bài, mỗi người chơi sẽ trình bài của họ (bài này sẽ được gọi là Tay Bài poker) để tìm ra ai là người nắm giữ bài mạnh nhất, và người đó sẽ là người chiến thắng.
+Một Tay bài Poker luôn được tạo thành bởi 5 lá bài. Không phải 4 lá, không phải 7 lá, mà chính xác là 5 lá. Người chơi chỉ giữ 2 lá trên tay, và dùng chúng để kết hợp với 5 lá bài chung trên bàn để tạo thành 1 Tay bài poker. Nhưng không phải lúc nào người chơi cũng cần cả 2 lá trên tay để có thể tạo ra 1 Tay bài poker. Người chơi có thể sử dụng 4 lá bài chung, hoặc cả 5 lá cũng được, điều đó không thành vấn đề. Yêu cầu duy nhất là phải có đủ 5 lá bài.
+Tay bài Poker (Poker hand) 
+- Thùng phá sảnh (Royal Flush) [Lớn Nhất]: Nếu bài người chơi kết hợp với bài trên bàn và có 1 sảnh đồng chất từ 10 đến A (10.J.Q.K.A), không phân biệt chất cơ hay rô gì cả, thì được gọi là Thùng phá sảnh, đây cũng là nhóm bài lớn nhất trong Poker, nếu có nó, người chơi sẽ ko phải sợ gì cả. 
+- Sảnh đồng chất (Straight Flush): Đứng thứ nhì là Sảnh đồng chất, với 1 sảnh đồng chất 5 cây bất kỳ thì được gọi là Sảnh đồng chất. Nếu hai người cùng có Straight Flush thì ai có lá lớn hơn sẽ thắng, không phân biệt chất gì. 
+- Tứ quý (Four of a kind): Nếu bài người chơi kết hợp với bài trên bàn và có 1 bộ 4 lá giống nhau thì được gọi là Tứ quý. Trong trường hợp 2 người đều có Tứ quý, tức bài trên bài được chia ra có 2 đôi, và mỗi người cầm 2 đôi giống vậy, thì người nào có đôi lớn hơn sẽ thắng. 
+- Cù lủ (Full House): Nếu bài người chơi kết hợp với bài trên bàn và có 1 bộ ba lá cùng 1 bộ đôi thì bài đó được gọi là Cù lủ. Trong trường hợp 2 người đều được Cù lủ thì ai có bộ ba lá lớn hơn sẽ thắng. Ngoài ra còn có trường hợp bài trên bàn có sẵn 3 lá giống nhau và có 2 người cùng được Cù lủ thì ai có đôi lớn hơn sẽ thắng. 
+- Đồng chất (Flush  – Thùng): Nếu bài của người chơi kết hợp với bài trên bàn và có 5 cây cùng đồng 1 chất với nhau thì được gọi là Đồng chất. Trường hợp 2 người cùng có flush thì ai có lá lớn hơn sẽ thắng. 
+- Sảnh (Straight): Nếu bài của người chơi kết hợp với bài trên bàn và có 1 bộ 5 cây liên tiếp nhau, ví dụ như 2.3.4.5.6 thì được gọi là Sảnh, không phân biệt chất gì cả. Nếu 2 người cùng có Straight thì ai có cây lớn hơn sẽ thắng. 
+- Bộ ba lá (Three of a kind): Nếu bài của người chơi kết hợp với bài trên bàn và có 3 lá giống nhau thì được gọi là Three of a kind. Nếu hai người đều cùng có Three of a kind thì sau đó những lá bài khác hoặc cả 2 lá sẽ xác định chiến thằng, vì 1 ván poker luôn có 5 lá bài. 
+- 2 đôi (Two pairs): Nếu bài của người chơi kết hợp với bài trên bàn và có 2 đôi thì được gọi là 2 đôi. Nếu hai người đều cùng có 2 đôi không giống nhau, thì ai có đôi lớn hơn sẽ thắng, tuy nhiên nếu có cùng hai đôi cao giống nhau thì 2 đôi thấp sẽ được xét, nếu nó cùng bằng nhau hết thì lá thứ 5 sẽ được xét đến. 
+- 1 đôi (Pair): Nếu bài của người chơi kết hợp với bài trên bàn và có 2 lá cùng loại thì được gọi là 1 đôi. Một ván bài poker luôn có 5 lá, 3 lá còn lại được gọi là kickers. Trong trường hợp người chơi có cùng đôi giống nhau thì người nào có kickers cao nhất sẽ thắng. 
+- Lá bài cao (Hight card): Nếu mà người chơi không có đến 1 đôi, thì người chơi nhìn cả bài trên bàn lẫn bài trên tay mình để xem đâu là lá lớn nhất mà mình có được khi kết hợp cả bài trên tay lẫn dưới bàn. Nếu 2 người đều không có đôi, hoặc tốt hơn, thì ai có lá lớn nhất người đó sẽ thắng.
+</value>
+  </data>
+</root>
